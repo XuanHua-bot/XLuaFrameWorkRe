@@ -1,0 +1,6 @@
+Win
+PlayerPath?
+E:/unityXiangmu/XLuaFrameWorkRe/Assets/StreamingAssets/scenes/testscence1.unity.ab
+SceneListBegin?
+Assets/BuildResources/Scenes/TestScence1.unity
+SceneListEnd?

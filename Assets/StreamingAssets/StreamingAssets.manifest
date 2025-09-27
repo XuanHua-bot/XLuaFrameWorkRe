@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3196963865
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scenes/testscence1.unity.ab
+      Dependencies: {}
+    Info_1:
+      Name: ui/res/background.png.ab
+      Dependencies: {}
+    Info_2:
+      Name: ui/res/button_150.png.ab
+      Dependencies: {}
+    Info_3:
+      Name: ui/res/img_jindutiaodikuang.png.ab
+      Dependencies: {}
+    Info_4:
+      Name: ui/res/img_jindutiaoxuanzhong.png.ab
+      Dependencies: {}
+    Info_5:
+      Name: ui/res/radio_100.png.ab
+      Dependencies: {}
+    Info_6:
+      Name: ui/res/slider_handle.png.ab
+      Dependencies: {}
+    Info_7:
+      Name: ui/res/universal_panel_40.png.ab
+      Dependencies: {}
