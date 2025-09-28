@@ -4,3 +4,5 @@ E:/unityXiangmu/XLuaFrameWorkRe/Assets/StreamingAssets/scenes/testscence1.unity.
 SceneListBegin?
 Assets/BuildResources/Scenes/TestScence1.unity
 SceneListEnd?
+cc4274b586df3c02688bac01b88bd16c UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
+748dd2a2a28da4e618912da5ac45684b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule

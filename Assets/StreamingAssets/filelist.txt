@@ -1,0 +1,9 @@
+Assets/BuildResources/Scenes/TestScence1.unity|scenes/testscence1.unity.ab
+Assets/BuildResources/UI/Prefabs/SettingUIPrefab.prefab|ui/prefabs/settinguiprefab.prefab.ab|Assets/BuildResources/UI/Res/button_150.png|Assets/BuildResources/UI/Res/background.png
+Assets/BuildResources/UI/Res/background.png|ui/res/background.png.ab
+Assets/BuildResources/UI/Res/button_150.png|ui/res/button_150.png.ab
+Assets/BuildResources/UI/Res/img_jindutiaodikuang.png|ui/res/img_jindutiaodikuang.png.ab
+Assets/BuildResources/UI/Res/img_jindutiaoxuanzhong.png|ui/res/img_jindutiaoxuanzhong.png.ab
+Assets/BuildResources/UI/Res/radio_100.png|ui/res/radio_100.png.ab
+Assets/BuildResources/UI/Res/slider_handle.png|ui/res/slider_handle.png.ab
+Assets/BuildResources/UI/Res/universal_panel_40.png|ui/res/universal_panel_40.png.ab

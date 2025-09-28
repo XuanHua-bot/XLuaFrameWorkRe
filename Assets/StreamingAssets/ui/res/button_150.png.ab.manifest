@@ -1,15 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2723576833
+CRC: 3309717838
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2534ff6f4512ce2f29d5627225c1e3e5
+    Hash: 9a039a22a485399f1b0fba06568aeba5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
 HashAppended: 0
 ClassTypes:
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 Assets:
 - Assets/BuildResources/UI/Res/button_150.png

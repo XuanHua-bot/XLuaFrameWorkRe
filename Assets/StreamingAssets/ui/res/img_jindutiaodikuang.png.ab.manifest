@@ -1,15 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1220812945
+CRC: 1543693979
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9d25d56ddac1bd00f3028fd984264bb9
+    Hash: 4a9d37cef134e35f9674c24d51423640
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
 HashAppended: 0
 ClassTypes:
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 Assets:
 - Assets/BuildResources/UI/Res/img_jindutiaodikuang.png
