@@ -1,5 +1,6 @@
 Assets/BuildResources/Scenes/TestScence1.unity|scenes/testscence1.unity.ab
 Assets/BuildResources/UI/Prefabs/SettingUIPrefab.prefab|ui/prefabs/settinguiprefab.prefab.ab|Assets/BuildResources/UI/Res/button_150.png|Assets/BuildResources/UI/Res/background.png
+Assets/BuildResources/UI/Prefabs/Login/LoginUI.prefab|ui/prefabs/login/loginui.prefab.ab
 Assets/BuildResources/UI/Res/background.png|ui/res/background.png.ab
 Assets/BuildResources/UI/Res/button_150.png|ui/res/button_150.png.ab
 Assets/BuildResources/UI/Res/img_jindutiaodikuang.png|ui/res/img_jindutiaodikuang.png.ab

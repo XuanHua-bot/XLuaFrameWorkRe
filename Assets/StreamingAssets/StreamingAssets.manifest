@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3893927961
+CRC: 43495834
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -11,23 +11,26 @@ AssetBundleManifest:
         Dependency_0: ui/res/background.png.ab
         Dependency_1: ui/res/button_150.png.ab
     Info_2:
-      Name: ui/res/background.png.ab
+      Name: ui/prefabs/login/loginui.prefab.ab
       Dependencies: {}
     Info_3:
-      Name: ui/res/button_150.png.ab
+      Name: ui/res/background.png.ab
       Dependencies: {}
     Info_4:
-      Name: ui/res/img_jindutiaodikuang.png.ab
+      Name: ui/res/button_150.png.ab
       Dependencies: {}
     Info_5:
-      Name: ui/res/img_jindutiaoxuanzhong.png.ab
+      Name: ui/res/img_jindutiaodikuang.png.ab
       Dependencies: {}
     Info_6:
-      Name: ui/res/radio_100.png.ab
+      Name: ui/res/img_jindutiaoxuanzhong.png.ab
       Dependencies: {}
     Info_7:
-      Name: ui/res/slider_handle.png.ab
+      Name: ui/res/radio_100.png.ab
       Dependencies: {}
     Info_8:
+      Name: ui/res/slider_handle.png.ab
+      Dependencies: {}
+    Info_9:
       Name: ui/res/universal_panel_40.png.ab
       Dependencies: {}

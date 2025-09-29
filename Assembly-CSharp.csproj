@@ -60,8 +60,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GameStart.cs" />
     <Compile Include="Assets\Scripts\FrameWork\AppConst.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\HotUpdate.cs" />
     <Compile Include="Assets\Scripts\FrameWork\ResourceManager.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Util\FileUtil.cs" />
     <Compile Include="Assets\Scripts\FrameWork\Util\PathUtil.cs" />
     <Compile Include="Assets\testLoad.cs" />
     <Compile Include="Assets\XLua\Examples\01_Helloworld\Helloworld.cs" />
